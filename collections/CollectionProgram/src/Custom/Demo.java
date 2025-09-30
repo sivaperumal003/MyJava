@@ -1,0 +1,11 @@
+package Custom;
+
+public class Demo {
+	public static void main(String[] args) {
+		Bank bank=new Bank();
+		bank.initiate();
+
+		
+	}
+	
+}
